@@ -38,6 +38,5 @@ This project is open-source and available under the **MIT License**.
 
 
 🔗 Connect with Me  
-💼 GitHub: [yourusername](https://github.com/yourusername)  
-📧 Email: your@email.com  
+📧 Email: samridhigarg8737@gmail.com
 
